@@ -1,3 +1,3 @@
 # HTML-CSS-BASICS
 
-Motivated by Brad Traversy
+Motivated by Brad Traversy Course
